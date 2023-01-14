@@ -24,7 +24,7 @@
     man small  ->  women big 
     left king  -> right women
     ```
-    其中的数据是自己所写，数据量较小，验证了一下模型的有效性。** 本demo也是最主要完成的demo **，相关报告内容见ipynb文件内部描述。模型的checkpoint保存为model.ckpt。
+    其中的数据是自己所写，数据量较小，验证了一下模型的有效性。本demo也是最主要完成的demo，相关报告内容见ipynb文件内部描述。模型的checkpoint保存为model.ckpt。
 *   HW4.ipynb
     本demo是台湾大学李宏毅教授2022年春《机器学习》课程的课程作业4，相关要求和slides在slides文件夹中，本项目通过使用了transformer的encoder，完成了一个语音辨识的分类任务，相关数据集在kaggle上，可以在kaggle的比赛[here](https://www.kaggle.com/competitions/ml2022spring-hw4)中运行该demo。demo由于是课程作业，有一定的原始代码存在，需要完成的部分是TODO部分。
 *   HW5.ipynb
