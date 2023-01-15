@@ -2,6 +2,7 @@
 # NLP-course
 ## 项目说明
 
+This project is using for master course <Natural Language Processing> of NEU, China.
 本项目是东北大学计算机科学与工程学院研究生一年级课程《自然语言处理》的结课作业。
 
 作者：刘沛灼 2101762
